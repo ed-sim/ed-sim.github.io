@@ -2,7 +2,7 @@
 
 ## Home page for the Emergency Department Simulation
 
-...more soon...
+[Summary presentation](https://docs.google.com/presentation/d/1nrt_PdvWn4YZ5diVsp4BWKBtY9UAiBZy6EfG5PFRckM/edit#slide=id.g233139c187_0_34)
 
 ## Work-in-progress
 
