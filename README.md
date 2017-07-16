@@ -24,3 +24,6 @@ New version of simulation based upon an [open source framework](simjs.com) so it
 
 [Shiny examples](https://github.com/rstudio/shiny-examples/tree/master/051-movie-explorer)
 
+## Team photo
+
+![team photo](DSC_0900.JPG)
