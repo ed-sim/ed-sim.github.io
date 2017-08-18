@@ -10,7 +10,7 @@ New version of simulation based upon an [open source framework](http://simjs.com
 
 [Browser based version of the simulation](https://ed-sim.github.io/ed-sim-js/index.html)
 
-[README for this version](https://github.com/ed-sim/ed-sim-js/README.md)
+[README for this version](https://github.com/ed-sim/ed-sim-js/blob/master/README.md#ed-sim-js)
 
 ## Useful links
 
