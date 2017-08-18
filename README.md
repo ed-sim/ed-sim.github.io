@@ -9,6 +9,7 @@
 New version of simulation based upon an [open source framework](http://simjs.com) so it is easier for future teams to contribute.
 
 [Browser based version of the simulation](https://ed-sim.github.io/ed-sim-js/index.html)
+[README for this version](https:/github.com/ed-sim/ed-sim-js/README.md)
 
 ## Useful links
 
